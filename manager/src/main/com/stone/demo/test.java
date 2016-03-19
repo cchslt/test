@@ -11,4 +11,12 @@ public class test {
     private void dd(){
         System.out.println("dfd");
     }
+
+    private void ee(){
+        System.out.println("haha!");
+    }
+
+    private void see(){
+        System.out.println("haha!");
+    }
 }
